@@ -78,7 +78,7 @@ The 12 classes are grouped into 3 modules.
 
 #### Week 1
 
-##### Programming with Ruby
+##### [Programming with Ruby](https://github.com/coder-express/Coder-Express/tree/master/Module-01/Week-01-Programming-with-Ruby)
 Learn the history and five fundamental concepts of programming
 Create simple procedural programs with the Ruby language
 Create simple object-oriented programs with the Ruby language
